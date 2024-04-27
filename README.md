@@ -7,7 +7,7 @@ Currently, MTN Cote d'Ivoire would like to upgrade its technology infrastructure
 Business Understanding,
 Data Understanding, 
 Data Preparation, 
-Analysis, 
+Analysis,   
 Recommendation, 
 Evaluation
 
