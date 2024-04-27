@@ -4,7 +4,7 @@ MTN Cote D'Ivoire technology upgrade evaluation and analysis.
 Currently, MTN Cote d'Ivoire would like to upgrade its technology infrastructure for its mobile users in Ivory Coast. Studying the given dataset, how does MTN Cote d'Ivoire go about the upgrade of its infrastructure strategy within the given cities?
 
 # Deliverables used in Data mining include:
-Business Understanding,
+Business Understanding, 
 Data Understanding,  
 Data Preparation, 
 Analysis,   
