@@ -6,7 +6,7 @@ Currently, MTN Cote d'Ivoire would like to upgrade its technology infrastructure
 # Deliverables used in Data mining include:
 Business Understanding, 
 Data Understanding,  
-Data Preparation, 
+Data Preparation,  
 Analysis,   
 Recommendation, 
 Evaluation
