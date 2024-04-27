@@ -8,7 +8,7 @@ Business Understanding,
 Data Understanding,  
 Data Preparation,  
 Analysis,   
-Recommendation, 
+Recommendation,  
 Evaluation
 
 # The data provided:
